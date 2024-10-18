@@ -3,5 +3,5 @@ Notes for math and computer science
 ### Software need:
 - obsidian.
 - Windows:https://obsidian.md/download
-- Arch linux: sudo pacman -S obsidian.:w:w
+- Arch linux: sudo pacman -S obsidian
 
